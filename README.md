@@ -1,12 +1,12 @@
 # ServerGather Project Made by Samuel Raposo
 
 ## Overview
-The ServerGather project is a sophisticated tool that combines data processing, machine learning analysis, API interactions, and a graphical user interface to gather and display information from a target website.
+The ServerGather project is a tool that uses data processing, machine learning analysis, API interactions, and a graphical user interface to gather information from a website.
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the `gui.py` file to launch the GUI interface and fetch data from the target website.
+2. Install the required dependencies by running "pip install -r requirements.txt"
+3. Run the "gui.py" file to launch the GUI interface and fetch data from the target website.
 
 ## Usage Instructions
 - Clone the Repository    "git clone <repository_url>" then "cd SERVERGATHER"
