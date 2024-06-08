@@ -1,7 +1,7 @@
 # ServerGather Project Made by Samuel Raposo
 
 ## Overview
-The ServerGather project is a sophisticated tool that combines data processing, machine learning analysis, API interactions, and a graphical user interface (GUI) to gather and display information from a target website.
+The ServerGather project is a sophisticated tool that combines data processing, machine learning analysis, API interactions, and a graphical user interface to gather and display information from a target website.
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
