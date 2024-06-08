@@ -16,7 +16,7 @@ The ServerGather project is a sophisticated tool that combines data processing, 
 
 ## Additional Notes
 - Ensure you have an active internet connection to fetch data from the target website.
-- Customize the project files as needed for your specific requirements.
+- You can Customize it conform on your needs or use it in his current state.
 
 ## Contributors
 - [Samuel Raposo] - test_acont01roblox on dc
