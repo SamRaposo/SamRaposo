@@ -9,7 +9,7 @@ The ServerGather project is a program that can be used to gather information fro
 3. Run the "gui.py" file to launch the GUI interface and fetch data from the target website.
 
 ## Usage Instructions
-- Clone the Repository    "git clone <repository_url>" then "cd SERVERGATHER"
+- Clone the Repository    "git clone https://github.com/SamRaposo/SamRaposo/edit/main/README.md" then "cd SERVERGATHER"
 - Install Dependencies    "pip install -r requirements.txt"
 - Run the Main Script     "python start_servergather.py"
 - Run the test.py         "python test.py"
