@@ -1,7 +1,7 @@
 # ServerGather Project Made by Samuel Raposo
 
 ## Overview
-The ServerGather project is a tool that uses data processing, machine learning analysis, API interactions, and a graphical user interface to gather information from a website.
+The ServerGather project is a program that can be used to gather information from a website server.
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
