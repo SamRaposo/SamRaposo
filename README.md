@@ -5,7 +5,7 @@ The ServerGather project is a tool that uses data processing, machine learning a
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running "pip install -r requirements.txt"
+2. Install the dependencies by running "pip install -r requirements.txt"
 3. Run the "gui.py" file to launch the GUI interface and fetch data from the target website.
 
 ## Usage Instructions
@@ -15,7 +15,6 @@ The ServerGather project is a tool that uses data processing, machine learning a
 - Run the test.py         "python test.py"
 
 ## Additional Notes
-- Ensure you have an active internet connection to fetch data from the target website.
 - You can Customize it conform on your needs or use it in his current state.
 
 ## Contributors
